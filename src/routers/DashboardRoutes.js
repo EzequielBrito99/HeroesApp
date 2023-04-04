@@ -19,6 +19,7 @@ const DashboardRoutes = () => {
             <Route path='search' element={<SearchScreen />}></Route>
             
             <Route path='/' element={<MarvelScreen />}></Route>
+            <Route path='/HeroesApp' element={<MarvelScreen />}></Route>
         </Routes>  
       </div>
     </>

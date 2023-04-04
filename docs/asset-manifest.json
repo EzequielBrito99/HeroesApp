@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.2a6cd271.js",
-    "index.html": "/index.html",
-    "main.2a6cd271.js.map": "/static/js/main.2a6cd271.js.map"
+    "main.js": "/HeroesApp/static/js/main.1c41aa30.js",
+    "index.html": "/HeroesApp/index.html",
+    "main.1c41aa30.js.map": "/HeroesApp/static/js/main.1c41aa30.js.map"
   },
   "entrypoints": [
-    "static/js/main.2a6cd271.js"
+    "static/js/main.1c41aa30.js"
   ]
 }
